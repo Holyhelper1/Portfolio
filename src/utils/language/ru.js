@@ -1,0 +1,17 @@
+export const ru = {
+    projects: 'Мои проекты',
+    portfolio: 'Портфолио',
+    gitRepository: 'Репозиторий на Github',
+    demo: 'Демо версия',
+    descriptionIReserve: 'Сайт для дипломной работы, бронирование сети отелей, с личным кабинетом, отслеживанием бронирования и аккаунтом администратора, редактирование сайта прямо в меню, использованы такие технологии как Rect, JavaScript, Redux, Docker, MongoDB, Express, JWT, React Router 6, Node.',
+    descriptionVertical: 'Стильный вертикальный  слайдер, технологии использованные в проекте: HTML, CSS, JavaScript',
+    descriptionParallax: 'Учебный проект. Параллакс скроллинг веб-сайта, технологии использованные в проекте: HTML, CSS, JavaScript',
+    phone: 'Телефон',
+    name: 'Александр Шульгин',
+    profession: 'Фронтенд разработчик',
+    contacts: 'Контакты',
+    stack: 'Мой стек технологий:',
+    footerNote: 'Буду рад сотрудничеству',
+    changeTheme: 'Изменить тему',
+    changeLanguage: 'Изменить язык',
+  };

@@ -1,0 +1,20 @@
+.all_button {
+  background-color: #87973b;
+  border: 1px solid #fff;
+  padding: 5px 10px;
+  color: #121512;
+  cursor: pointer;
+  border-radius: 5px;
+  margin: 0 10px;
+  font-weight: bold;
+  transition: background-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+
+  &:active {
+    background-color: #224d39;
+  }
+
+  &:hover {
+    background-color: #68bacb;
+    box-shadow: 1px 1px 5px #224d39;
+  }
+}
